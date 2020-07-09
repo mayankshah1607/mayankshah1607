@@ -1,4 +1,4 @@
-### H! I'm Mayank.
+### Hi! I'm Mayank.
 
 - 🔭 I’m currently working on [linkerd2](https://github.com/linkerd) as a part of [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), distributed systems and networking

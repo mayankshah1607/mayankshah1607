@@ -6,7 +6,7 @@
 
 ### Get in touch
 
-- Twitter: https://twitter.com/mayankshah__
+- Twitter: [https://twitter.com/mayankshah__](https://twitter.com/mayankshah__)
 - LinkedIn: https://www.linkedin.com/in/mayankshah1607/
 - Email: hello@mayankshah.dev
 - Personal website: https://mayankshah.dev

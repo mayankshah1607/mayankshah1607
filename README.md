@@ -1,8 +1,13 @@
 ### Hi! I'm Mayank.
 
-- 🔭 I’m currently working on [linkerd2](https://github.com/linkerd) as a part of [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- :computer: I’m currently working on projects related to [Kubernetes](https://kubernetes.io/)
+- 🔭 I'm actively looking for opportunities to work in the Cloud / DevOps space
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), distributed systems and networking
 - 😄 Pronouns: He/him
+
+### Notable works and projects
+
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) with [Linkerd](https://github.com/linkerd) - [View Project](https://github.com/mayankshah1607/gsoc20-linkerd)
 
 ### Get in touch
 

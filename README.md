@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), distributed systems and networking
 - 😄 Pronouns: He/him
 
-### Notable works and projects
+### Previous works
 
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) with [Linkerd](https://github.com/linkerd) - [View Project](https://github.com/mayankshah1607/gsoc20-linkerd)
 

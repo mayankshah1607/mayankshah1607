@@ -1,7 +1,7 @@
 ### Hi! I'm Mayank.
 
-- :computer: I’m currently working on projects related to [Kubernetes](https://kubernetes.io/)
-- 🔭 I'm actively looking for opportunities to work in the Cloud / DevOps space
+- :rocket: Intern @[CNCF](https://github.com/cncf) ([CommunityBridge](https://communitybridge.org/))
+- :computer: I’m currently working on [Kubernetes](https://kubernetes.io/) with focus on Container Storage Interface
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), distributed systems and networking
 - 😄 Pronouns: He/him
 

@@ -1,6 +1,6 @@
 ### Hi! I'm Mayank.
 
-- :rocket: Intern @[CNCF](https://github.com/cncf) ([CommunityBridge](https://communitybridge.org/)), working on [Kubernetes](https://kubernetes.io/) with focus on Container Storage Interface
+- :rocket: Intern [@CNCF](https://github.com/cncf) under [The Linux Foundation](https://lfx.linuxfoundation.org/tools/mentorship/), working on [Kubernetes](https://kubernetes.io/) with focus on Container Storage Interface
 - 😄 Pronouns: He/him
 
 ### Previous works

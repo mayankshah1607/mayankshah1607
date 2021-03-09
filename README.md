@@ -1,6 +1,6 @@
 ### Hi! I'm Mayank.
 
-- :rocket: Software Engineering Intern (Infra) at [Grofers, India](https://github.com/grofers)
+- :rocket: Software Engineering Intern at [Grofers, India](https://github.com/grofers)
 - 😄 Pronouns: He/him
 
 ### Previous works

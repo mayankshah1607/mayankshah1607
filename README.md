@@ -10,7 +10,6 @@
 
 ### Get in touch
 
-- Twitter: [https://twitter.com/mayankshah__](https://twitter.com/mayankshah__)
-- LinkedIn: https://www.linkedin.com/in/mayankshah1607/
-- Email: hello@mayankshah.dev
+- [Twitter](https://twitter.com/mayankshah__)
+- [LinkedIn](https://www.linkedin.com/in/mayankshah1607)
 - Website: https://mayankshah.dev

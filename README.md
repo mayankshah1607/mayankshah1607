@@ -1,6 +1,6 @@
 ### Hi! I'm Mayank.
 
-- :rocket: Software Engineering Intern at [Grofers, India](https://github.com/grofers)
+- :rocket: Site Reliability Engineer at [Red Hat](https://www.redhat.com/en)
 - 😄 Pronouns: He/him
 
 ### Previous works

@@ -1,15 +1,11 @@
-### Hi! I'm Mayank.
+### Hi!:wave: I'm Mayank.
 
-- Site Reliability Engineer at [Red Hat](https://www.redhat.com/en)
-- Pronouns: He/him
+- :hammer_and_wrench:&nbsp;&nbsp; Site Reliability Engineer at [Red Hat](https://www.redhat.com/en)
+- :india:&nbsp;&nbsp;  Based in India
+- :email:&nbsp;&nbsp; mashah@redhat.com
 
-### Previous works
-
-- [Google Summer of Code](https://summerofcode.withgoogle.com/) with [Linkerd](https://github.com/linkerd) - [View Project](https://github.com/mayankshah1607/gsoc20-linkerd)
-- [CNCF](https://github.com/cncf) Intern  [(LFX Mentorship)](https://lfx.linuxfoundation.org/tools/mentorship/) under [Kubernetes](https://kubernetes.io/) project
-
-### Get in touch
+### Get in touch 📧
 
 - [Twitter](https://twitter.com/mayankshah__)
 - [LinkedIn](https://www.linkedin.com/in/mayankshah1607)
-- Website: https://mayankshah.dev
+- [Website](https://mayankshah.dev/)

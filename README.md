@@ -1,7 +1,7 @@
 ### Hi! I'm Mayank.
 
-- :rocket: Site Reliability Engineer at [Red Hat](https://www.redhat.com/en)
-- 😄 Pronouns: He/him
+- Site Reliability Engineer at [Red Hat](https://www.redhat.com/en)
+- Pronouns: He/him
 
 ### Previous works
 

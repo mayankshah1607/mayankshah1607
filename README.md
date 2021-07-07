@@ -2,7 +2,7 @@
 
 - :hammer_and_wrench:&nbsp;&nbsp; Site Reliability Engineer at [Red Hat](https://www.redhat.com/en)
 - :india:&nbsp;&nbsp;  Based in India
-- :email:&nbsp;&nbsp; hello@mayankshah.dev
+- :email:&nbsp;&nbsp; m.shah@redhat.com
 
 ### Get in touch 📧
 
